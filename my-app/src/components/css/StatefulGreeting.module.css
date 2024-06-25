@@ -1,0 +1,9 @@
+.statefulgreeting {
+    grid-row: 4;
+    grid-column: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    text-align: left;
+    padding-left: 40px
+}
